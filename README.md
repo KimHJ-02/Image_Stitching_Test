@@ -41,6 +41,9 @@ pip install numpy opencv-python
 python image_stitching.py --output result.jpg --detector sift
 ```
 
+예시 적용사진 <img width="2947" height="2000" alt="panorama" src="https://github.com/user-attachments/assets/03d3b384-e2c5-4df3-abdf-a14eed797b10" />
+
+
 ## 제한사항 및 주의점
 
 - 최소 2장 이상의 이미지가 필요합니다. 그렇지 않으면 처리하지 않습니다.
